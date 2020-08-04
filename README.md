@@ -1,4 +1,4 @@
-# Deep Learning on Rock-Paper-Scissors image
+# Deep Learning on Rock-Paper-Scissors images
 ##
 ## Deep learning pipeline for this problem :
 ### 1. Use google colab for faster processing
